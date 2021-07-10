@@ -46,7 +46,80 @@ p {
 	grid-template-rows: 100px 100px;
 	grid-template-columns: 25% 25%;
     justify-content: center;
+    margin-top: 50px;
 }
 .dropdown-item {
     font-family: Dosis-Regular;
+}
+.einstieg {
+    text-align: center;
+    margin-top: 20px;
+}
+.lagalerie {
+    text-align: center;
+    margin-top: 20px;
+}
+.ueberunsbutton {
+    justify-content: right;
+}
+.carousel {
+    position: relative;
+    margin: 0 auto;
+    max-width: 500px;
+    margin-top: 20px;
+}
+div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    width: 250px;
+    float: left;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid purple;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  #container {
+    width: 1110px; margin: 0 auto;
+  }
+  div.gallery_logo {
+    margin-top: 20px;
+    margin: 10px;
+    width: 250px;
+    float: left;
+  }
+  div.gallery_logo img {
+    width: 100%;
+    height: auto;
+  }
+  .h2abstand {
+      margin-top: 40px;
+      margin-bottom: 20px;
+  }
+  .video {
+    position: relative;
+    margin: 0 auto;
+  }
+  .h2abstandskills {
+    margin-bottom: 20px;
+  }
+.progress {
+    margin-top: 10px;
+    font-family: Raleway-Medium;
+}
+.progress_end {
+    margin-bottom: 30px;
+}
+.cs_logo {
+    max-width: 200px;
+    margin-bottom: 10px;
 }
