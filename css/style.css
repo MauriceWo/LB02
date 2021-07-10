@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Dosis-Regular;
+    src: url(../fonts/Dosis-Regular.ttf);
+}
+@font-face {
+    font-family: Dosis-Light;
+    src: url(../fonts/Dosis-Light.ttf);
+}
+@font-face {
+    font-family: Dosis-Bold;
+    src: url(../fonts/Dosis-Bold.ttf);
+}
+@font-face {
+    font-family: Raleway-Medium;
+    src: url(../fonts/Raleway-Medium.ttf);
+}
+.navbar {
+    font-family: Dosis-Bold; 
+}
+.lagalerie {
+    margin-top: 10px;
+}
+h1 {
+    font-family: Dosis-Bold;
+}
+h2 {
+    font-family: Dosis-Bold;
+}
+h3 {
+    font-family: Dosis-Bold;
+}
+h4 {
+    font-family: Dosis-Bold;
+}
+h5 {
+    font-family: Dosis-Bold;
+}
+p {
+    font-family: Raleway-Medium;
+}
+.btn {
+    font-family: Raleway-Medium;
+}
+.grid-container {
+    display: grid;
+	grid-template-rows: 100px 100px;
+	grid-template-columns: 25% 25%;
+    justify-content: center;
+}
+.dropdown-item {
+    font-family: Dosis-Regular;
+}
