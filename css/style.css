@@ -87,6 +87,7 @@ div.gallery {
   div.desc {
     padding: 15px;
     text-align: center;
+    font-family: Dosis-Light;
   }
   #container {
     width: 1110px; margin: 0 auto;
@@ -122,4 +123,11 @@ div.gallery {
 .cs_logo {
     max-width: 200px;
     margin-bottom: 10px;
+}
+
+.footer1 {
+   font-family: Dosis-Light;
+   text-align: center;
+   margin-right: 5px;
+   margin-bottom: 5px;
 }
